@@ -3,8 +3,6 @@
 ![alt text](public/Screenshot.png "Logo Title Text 1")
 
 
-
-
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
