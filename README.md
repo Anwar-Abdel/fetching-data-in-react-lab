@@ -1,6 +1,6 @@
 # Site screenshot
 
-![alt text](public/Screenshot.png "Logo Title Text 1")
+![alt text](https://i.gyazo.com/c3f87b1e08a36f585bed12937753d88d.png)
 
 
 # React + Vite
